@@ -5,6 +5,7 @@ export const ContactPage = () => {
             Contact Page.
         </h1>
         <p>Montserrat</p>
+        <p>David Toledo</p>
     </>
     
   )
